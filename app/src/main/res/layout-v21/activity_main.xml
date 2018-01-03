@@ -27,5 +27,5 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        app:srcCompat="@drawable/coal" />
+        app:srcCompat="@drawable/coal" android:contentDescription="@string/todo" />
 </RelativeLayout>
